@@ -5,6 +5,9 @@
       "id": "modifier-keys",
       "files": [
         {
+          "path": "json/half-qwerty keyboard emulation (rev 2.01).json"
+        },
+        {
           "path": "json/bepo-cmdqwerty-toggle.json"
         },
         {
